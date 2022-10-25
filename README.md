@@ -32,7 +32,8 @@ Question 5
 ----------
 Given the following JSON document:
 
-```{
+```
+{
 	"claimId": "99999-100000",
 	"payee": {
 		"id": 9999,
